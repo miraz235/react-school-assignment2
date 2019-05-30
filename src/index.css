@@ -13,7 +13,7 @@ body {
   line-height: 1.5;
   margin: 0;
 }
-html, body, #root, .wrapper {
+#root, .wrapper {
   height: 100%;
 }
 body, button, input {
@@ -26,4 +26,13 @@ h1, h2, h3 {
 a {
   text-decoration: none;
   color: #3366ff;
+}
+input[type="search"], input[type="text"], input[type="password"] {
+  width: 100%;
+  border: 1px solid #e8e8e8;
+  padding: 3px 10px;
+  height: 30px;
+}
+input[type="search"]:focus, input[type="text"]:focus, input[type="password"]:focus {
+  background-color: #f9f9f9;
 }

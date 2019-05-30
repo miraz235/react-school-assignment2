@@ -17,12 +17,6 @@
 }
 .header input[type="search"] {
   width: 400px;
-  border: 1px solid #e8e8e8;
-  padding: 3px 10px;
-  height: 30px;
-}
-.header input[type="search"]:focus {
-  background-color: #f9f9f9;
 }
 .header button {
   margin-left: 1rem;
