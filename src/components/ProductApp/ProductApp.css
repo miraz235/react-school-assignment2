@@ -1,0 +1,82 @@
+.product-list {
+    list-style: none;
+    margin: 20px 0;
+    padding: 0;
+    background: #fff;
+    border-radius: 3px;
+    border: 1px solid #e8e8e8;
+    position: relative;
+}
+.product-list li {
+    border-bottom: 1px solid #e8e8e8;
+    display: block;
+    position: relative;
+    background: inherit;
+    color: inherit;
+}
+.product-list li:hover {
+    background-color: #f9f9f9;
+}
+.product {
+    padding: 20px;
+    display: flex;
+}
+.thumbnail {
+    margin-right: 10px;
+}
+.thumbnail img {
+    width: 80px;
+    height: 80px;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+.content h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+}
+.content p {
+    font-size: 13px;
+    font-weight: 400;
+    color: #717171;
+    margin-top: 0;
+}
+.content .cat {
+    font-size: 12px;
+}
+.button-box {
+    width: 64px;
+    margin-left: 12px;
+    border-radius: 3px;
+    border: 1px solid #e8e8e8;
+    background-color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 13px;
+}
+.button-box button {
+    border: none;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 5px 10px;
+}
+.button-box button:hover {
+    background-color: #f9f9f9;
+    cursor: pointer;
+}
+.button-box button:first-child:hover {
+    background-color: green;
+    color: #fff;
+}
+.button-box button:last-child:hover {
+    background-color: red;
+    color: #fff;
+}
+
+/** Animation **/

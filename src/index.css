@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+html {
+  font-size: 16px;
+  background-color: #fff;
+}
+body {
+  color: #4a4a4a;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.5;
+  margin: 0;
+}
+html, body, #root, .wrapper {
+  height: 100%;
+}
+body, button, input {
+  font-family: 'Open Sans', BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+h1, h2, h3 {
+  font-weight: 700;
+  margin-top: 0;
+}
+a {
+  text-decoration: none;
+  color: #3366ff;
+}
