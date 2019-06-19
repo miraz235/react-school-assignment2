@@ -4,7 +4,7 @@ import ReactDOM from "react-dom"
 const ModalContent = ({ content, modalRef, onClickAway, onClose, isOpen }) => {
     return ReactDOM.createPortal(
         <aside
-            className={isOpen ? "modal fade show" : "modal fade"}
+            className={isOpen ? "modal show" : "modal"}
             tabIndex="-1"
             role="dialog"
             aria-labelledby="exampleModalLabel"

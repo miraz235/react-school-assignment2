@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import './ProductApp.css'
+import Auth from '../contexts/Auth';
 import ProductList from './ProductList'
 
 const productsData = require('./products.json')
@@ -9,7 +10,7 @@ export default class ProductApp extends Component{
     state = {
         products: [],
         filterKey: ''
-    }
+    };
     componentDidMount = () => {
         this.getSortedProductsWithVote(productsData);
         this.setFilteredProduct(this.props.searchKey || '');
@@ -28,7 +29,7 @@ export default class ProductApp extends Component{
         this.setState({ products: filterKey ? this.products.filter( product => product.title.toLowerCase().indexOf(filterKey) > -1 ) : this.products, filterKey });
     }
 
-    onChangeVote(product, isUp) {
+    onChangeVote = (product, isUp) => {
         if(isUp)
             product.vote++;
         else if(product.vote > 0)
@@ -41,7 +42,11 @@ export default class ProductApp extends Component{
         return (
           <div className="page-container">
             <div className="container">
-                <ProductList products={this.state.products} onChangeVote={this.onChangeVote.bind(this)}  />
+                <Auth>
+                    {(context) => {
+                        return <ProductList products={this.state.products} onChangeVote={context.state.isloggedin ? this.onChangeVote : context.showModal} />
+                    }}
+                </Auth>
             </div>
           </div>
         )

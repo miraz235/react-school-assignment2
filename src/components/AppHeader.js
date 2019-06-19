@@ -1,6 +1,6 @@
 import React from 'react';
 import SearchInput from './SearchInput';
-import Login from './Login'
+import LoginButton from './Login/LoginButton'
 
 const AppHeader = (props) => {
     return (
@@ -8,7 +8,7 @@ const AppHeader = (props) => {
             <h2>Product App</h2>
             
             <SearchInput onSearchChange={props.onSearchChange}  />
-            <Login />
+            <LoginButton />
             
         </header>
     );

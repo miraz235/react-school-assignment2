@@ -4,6 +4,8 @@ import './App.css';
 import AppHeader from './AppHeader';
 import ProductApp from './ProductApp';
 
+import {AuthProvider} from './contexts/Auth';
+
 class App extends Component {
   state = {
     header: {
@@ -16,10 +18,13 @@ class App extends Component {
   render() {
     return (
       <div className="wrapper">
-          <AppHeader onSearchChange={key => this.onSearch(key)} />
-          <ErrorBoundary>
-            <ProductApp searchKey={this.state.header.searchKey} />
-          </ErrorBoundary>
+        <AuthProvider>
+            <AppHeader onSearchChange={key => this.onSearch(key)} />
+
+            <ErrorBoundary>
+              <ProductApp searchKey={this.state.header.searchKey} />
+            </ErrorBoundary>
+        </AuthProvider>
       </div>
     );
   }
