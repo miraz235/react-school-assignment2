@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fbd51b24af731f9e84b371f8cfcfff5",
+    "revision": "3192fa7816846808265ce984ce3f0caf",
     "url": "/miraz-react-school-assignment2/index.html"
   },
   {
-    "revision": "f1359a71335d9a32726a",
+    "revision": "89915bc53c160555516c",
     "url": "/miraz-react-school-assignment2/static/css/main.fd21c13c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miraz-react-school-assignment2/static/js/2.4b432f81.chunk.js"
   },
   {
-    "revision": "f1359a71335d9a32726a",
-    "url": "/miraz-react-school-assignment2/static/js/main.989a586a.chunk.js"
+    "revision": "89915bc53c160555516c",
+    "url": "/miraz-react-school-assignment2/static/js/main.11180f58.chunk.js"
   },
   {
     "revision": "11b223440ac9c824f1e7",
