@@ -5,7 +5,7 @@
         "desc": "Web applications to reduce human-time spent on shallow work.",
         "image": "https://ph-files.imgix.net/2d30efda-6631-4458-81d5-1203ba1e28b5?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Productivity",
-        "vote": 1935
+        "vote": 100
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "desc": "Get human tasks done with just one line of code.",
         "image": "https://ph-files.imgix.net/2f8a7134-d50e-49a4-8862-553e0ea28fae?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Productivity",
-        "vote": 1899
+        "vote": 100
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "desc": "Get any site's company logo with just a URL",
         "image": "https://ph-files.imgix.net/1bdb20ed-e13d-45b0-a26c-82119aeb6842?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Web App",
-        "vote": 1458
+        "vote": 100
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "desc": "Turn Google Spreadsheet into API",
         "image": "https://ph-files.imgix.net/da31de7d-e647-44cd-b5f9-f8bd8b4927a9?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Web App",
-        "vote": 1311
+        "vote": 1
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "desc": "First usable API to write Gmail Apps for 1B active users",
         "image": "https://ph-files.imgix.net/f4fc45a5-1d84-40fb-960e-57a50da6971a?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Web App",
-        "vote": 1207
+        "vote": 10
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "desc": "Instant offline access to 150+ API documentation sets",
         "image": "https://ph-files.imgix.net/11b1d2ae-b9bd-4391-be95-5718c43047ab?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "APIs",
-        "vote": 1182
+        "vote": 5
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "desc": "Google’s machine learning algorithms w/ RESTful interface",
         "image": "https://ph-files.imgix.net/28a54888-c99d-483f-9b24-2e0b958c5973?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Web App",
-        "vote": 1061
+        "vote": 34
     },
     {
         "id": 8,
@@ -61,7 +61,7 @@
         "desc": "Apple Music now available in 3rd Party Apps",
         "image": "https://ph-files.imgix.net/541b8963-1395-428f-ae53-3a4c86f47724?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Music",
-        "vote": 943
+        "vote": 94
     },
     {
         "id": 9,
@@ -69,7 +69,7 @@
         "desc": "Real handwriting without the pen –  no robots, all software",
         "image": "https://ph-files.imgix.net/03f01b3a-65a5-427d-912d-388c06b8adb2?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Web App",
-        "vote": 939
+        "vote": 39
     },
     {
         "id": 10,
@@ -77,7 +77,7 @@
         "desc": "Official Medium API",
         "image": "https://ph-files.imgix.net/e8579ed0-0ac0-40fc-b095-44e884d190aa?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Web App",
-        "vote": 928
+        "vote": 28
     },
     {
         "id": 11,
@@ -85,7 +85,7 @@
         "desc": "Build, test, and document your APIs faster",
         "image": "https://ph-files.imgix.net/be0e732c-b3a3-4e0e-8e68-a1ed3c6ebc6c?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Linux",
-        "vote": 907
+        "vote": 7
     },
     {
         "id": 12,
@@ -93,7 +93,7 @@
         "desc": "Image recognition API for developers from Google",
         "image": "https://ph-files.imgix.net/1c252025-e46b-4c14-87df-d5c23d5f9571?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Web App",
-        "vote": 893
+        "vote": 8
     },
     {
         "id": 13,
@@ -101,7 +101,7 @@
         "desc": "A platform that makes connecting third-party APIs easy",
         "image": "https://ph-files.imgix.net/cde96b3c-0e36-4f7e-a18f-71578797529b?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Web App",
-        "vote": 850
+        "vote": 85
     },
     {
         "id": 14,
@@ -109,7 +109,7 @@
         "desc": "Offline docs & reference for 150+ APIs, languages & tools",
         "image": "https://ph-files.imgix.net/36b6dce5-8c50-4fef-b530-6edf2dc31157?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Mac",
-        "vote": 804
+        "vote": 4
     },
     {
         "id": 15,
@@ -117,6 +117,6 @@
         "desc": "A catalogue of artificial intelligence APIs by Microsoft",
         "image": "https://ph-files.imgix.net/d25ed487-a2f2-4e66-a500-51008de5bfeb?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
         "category": "Web App",
-        "vote": 790
+        "vote": 79
     }
 ]
