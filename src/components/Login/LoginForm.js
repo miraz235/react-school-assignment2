@@ -28,7 +28,7 @@ const LoginForm = ({onClose}) => {
                                 <div className="modal-body">
                                     <div className="form-group">
                                         <label htmlFor="recipient-name" className="col-form-label">Name:</label>
-                                        <input type="text" className="form-control" id="user-name" name="username" required />
+                                        <input type="text" className="form-control" id="recipient-name" name="username" required />
                                     </div>
                                     <div className="form-group">
                                         <label htmlFor="recipient-password" className="col-form-label" name="password">Password:</label>
