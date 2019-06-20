@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/miraz-react-school-assignment2/static/css/main.52a7db96.chunk.css",
-    "main.js": "/miraz-react-school-assignment2/static/js/main.eca2e562.chunk.js",
-    "main.js.map": "/miraz-react-school-assignment2/static/js/main.eca2e562.chunk.js.map",
+    "main.css": "/miraz-react-school-assignment2/static/css/main.fd21c13c.chunk.css",
+    "main.js": "/miraz-react-school-assignment2/static/js/main.989a586a.chunk.js",
+    "main.js.map": "/miraz-react-school-assignment2/static/js/main.989a586a.chunk.js.map",
     "runtime~main.js": "/miraz-react-school-assignment2/static/js/runtime~main.8f025c35.js",
     "runtime~main.js.map": "/miraz-react-school-assignment2/static/js/runtime~main.8f025c35.js.map",
-    "static/js/2.4148a572.chunk.js": "/miraz-react-school-assignment2/static/js/2.4148a572.chunk.js",
-    "static/js/2.4148a572.chunk.js.map": "/miraz-react-school-assignment2/static/js/2.4148a572.chunk.js.map",
+    "static/js/2.4b432f81.chunk.js": "/miraz-react-school-assignment2/static/js/2.4b432f81.chunk.js",
+    "static/js/2.4b432f81.chunk.js.map": "/miraz-react-school-assignment2/static/js/2.4b432f81.chunk.js.map",
     "index.html": "/miraz-react-school-assignment2/index.html",
-    "precache-manifest.4bb62f7c0a868f4755b6849d269a73f9.js": "/miraz-react-school-assignment2/precache-manifest.4bb62f7c0a868f4755b6849d269a73f9.js",
+    "precache-manifest.3738391039e0913f736c673a438f5125.js": "/miraz-react-school-assignment2/precache-manifest.3738391039e0913f736c673a438f5125.js",
     "service-worker.js": "/miraz-react-school-assignment2/service-worker.js",
-    "static/css/main.52a7db96.chunk.css.map": "/miraz-react-school-assignment2/static/css/main.52a7db96.chunk.css.map"
+    "static/css/main.fd21c13c.chunk.css.map": "/miraz-react-school-assignment2/static/css/main.fd21c13c.chunk.css.map"
   }
 }
